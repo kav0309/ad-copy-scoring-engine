@@ -80,4 +80,4 @@ Analysed 24 paid ads across format, copy style, offer type and creative age usin
 
 ---
 
-*MBA Marketing Portfolio · 2026*
+*MBA Marketing Portfolio ·
