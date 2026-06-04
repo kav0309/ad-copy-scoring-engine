@@ -1,0 +1,40 @@
+Rank,brand,category,format,funnel_stage,copy,Hook Strength,Problem Agitation,Offer Clarity,CTA Strength,Social Proof,Brand Voice,Total Score,Word Count,Score %
+1,Indē Wild,Skincare,Carousel,Conversion,Still breaking out despite a 10-step routine? The problem isn't effort — it's the wrong ingredients. Our Cica Calm Serum fixes your barrier in 14 days. ₹799. Free returns.,16,16,8,5,4,10,59,29,59.0
+2,Oziva,Wellness,Reel,Conversion,"She lost 6kg in 90 days — without starving. Oziva Plant Protein + a simple workout plan. Your transformation starts at ₹1,299. Use OZIVA15 for 15% off.",7,8,9,15,7,10,56,27,56.0
+3,Yoga Bar,F&B,Reel,Conversion,"Your 4pm vending machine run is costing you ₹150 and your energy. Switch to Yoga Bar Muesli — ₹99, 20g protein, ships in 2 days. Use code FIRSTBITE for 15% off.",11,4,11,15,4,10,55,31,55.0
+4,Rage Coffee,F&B,Static,Conversion,"Cold brew at home in 5 minutes. Vitamin-fortified. Actually strong. Rage Coffee starter pack — ₹499, free shipping. Your morning just got an upgrade.",7,0,8,15,3,12,45,24,45.0
+5,Bombay Shirt Company,Fashion,Carousel,Consideration,"A shirt that fits you perfectly — not the mannequin. Custom measurements, 500+ fabrics, delivered in 10 days. Starting ₹1,499.",7,0,5,15,4,10,41,20,41.0
+6,Zivame,Fashion,Carousel,Conversion,"40% of women wear the wrong bra size. Our fit quiz takes 2 minutes. Find yours, feel the difference. ₹599 onwards + free exchanges forever.",11,4,5,10,0,10,40,25,40.0
+7,Boldfit,Wellness,Static,Conversion,"Gym starter kit — resistance bands, shaker, and a 30-day plan. ₹799. Sold 50,000+ kits last month. What's your excuse now?",7,4,5,10,0,12,38,21,38.0
+8,WOW Skin Science,Skincare,Reel,Awareness,She switched to WOW Apple Cider Vinegar face wash 30 days ago. Her skin? Unrecognisable. Watch her transformation 👇,7,0,0,10,7,10,34,19,34.0
+9,Minimalist,Skincare,Carousel,Conversion,Swipe to build your routine. Every ingredient explained. Every product under ₹700. No more guessing what your skin actually needs.,4,0,5,10,3,12,34,20,34.0
+10,Wellbeing Nutrition,Wellness,Carousel,Consideration,Most multivitamins pass through you unabsorbed. Ours melt on your tongue — 98% bioavailability. Swipe to see what you're actually missing.,7,0,0,10,3,12,32,21,32.0
+11,Indē Wild,Skincare,Reel,Awareness,"Your skin is not a before photo. Turmeric. Bakuchiol. Adaptogens. Skincare rooted in Ayurveda, formulated for today. Try Indē Wild — free shipping on your first order.",7,0,5,10,0,10,32,27,32.0
+12,Bewakoof,Fashion,Reel,Awareness,Why pay ₹2000 for a plain tee? Same cotton. Same fit. 60% less. Bewakoof — wear smart.,16,0,5,0,0,10,31,17,31.0
+13,Bewakoof,Fashion,Static,Conversion,3 tees for ₹999. Oversized. Comfy. Delivered in 3 days. Sale ends tonight — don't say we didn't warn you.,4,0,8,5,4,10,31,20,31.0
+14,The Whole Truth,F&B,Static,Awareness,You've been lied to by 'healthy' snacks for years. We're done with that. Real food. Real labels. The Whole Truth.,11,8,0,0,0,12,31,20,31.0
+15,Licious,F&B,Reel,Conversion,Fresh. Never frozen. Cut to order. Licious chicken delivered in 90 minutes — marinated and ready to cook. Use FIRST50 for 50% off your first order.,0,4,6,10,0,10,30,26,30.0
+16,Plum,Skincare,Static,Consideration,"100% vegan. 0% compromise. Plum Vitamin C serum — dermatologist tested, cruelty-free, and actually affordable. See the glow in 4 weeks or your money back.",4,0,3,0,12,10,29,25,29.0
+17,Noise,Electronics,Reel,Awareness,"Your wrist deserves better. Noise ColorFit Pro 5 — AMOLED display, 7-day battery, 100+ sports modes. Starting ₹2,999. The smartwatch flex you've been waiting for.",4,0,5,10,0,10,29,25,29.0
+18,Sattvic Foods,F&B,Carousel,Consideration,Swipe to see what's inside a traditional Indian thali — and how we packed it into one 30g serving. Grains. Lentils. Spices. Nothing artificial.,7,0,0,10,0,10,27,24,27.0
+19,Plum,Skincare,Reel,Awareness,What if your sunscreen felt like nothing? No white cast. No grease. Just SPF 50 and a dewy finish. Plum UV-Shield is here.,16,0,0,0,0,10,26,23,26.0
+20,Boldfit,Wellness,Reel,Awareness,You don't need a fancy gym. You need the right tools. Home workout essentials from ₹299. Boldfit.,11,0,5,0,0,10,26,17,26.0
+21,boAt,Electronics,Static,Conversion,"ENx™ tech. 30hr playback. And bass that actually hits. boAt Airdopes 141 — ₹1,299. Flash sale: next 4 hours only.",0,0,8,0,3,12,23,20,23.0
+22,Mamaearth,Skincare,Static,Conversion,Toxin-free. Made safe certified. Onion hair oil that actually stops hair fall — or we'll refund you. No questions asked.,0,0,3,0,8,12,23,20,23.0
+23,Generic Brand D,Wellness,Static,Conversion,Lose weight fast with our supplements. Natural ingredients. Limited time offer. Buy now.,3,0,3,10,0,6,22,13,22.0
+24,Slurrp Farm,F&B,Reel,Awareness,Getting kids to eat healthy shouldn't be a battle. Millet pancakes they'll actually ask for seconds of. No preservatives. No tantrums.,3,4,0,0,3,12,22,21,22.0
+25,Chumbak,Fashion,Static,Consideration,"Indian prints. Global sensibility. Chumbak accessories that start conversations. Shop the new Monsoon Edit — bags, jewellery, and home décor.",0,0,0,10,0,10,20,20,20.0
+26,Minimalist,Skincare,Static,Consideration,Niacinamide 10%. Hyaluronic Acid 2%. No fragrance. No fluff. Just science. ₹599.,4,0,5,0,0,10,19,12,19.0
+27,Keeros,F&B,Static,Awareness,Diabetic-friendly snacks that don't taste like cardboard. Low GI. High taste. Keeros Super Snacks.,7,0,0,0,0,12,19,14,19.0
+28,SUGAR Cosmetics,Skincare,Reel,Awareness,"Lip color that survives biryani, monsoon, and your ex. SUGAR Smudge Me Not — 12hr wear, 50+ shades.",7,0,0,0,0,12,19,18,19.0
+29,Heads Up For Tails,Pets,Carousel,Consideration,"Your dog's happiest walk yet. Ergonomic harness, no-pull design, and a style upgrade they can't ask for but definitely deserve. HUFT — because they're family.",4,4,0,0,0,10,18,25,18.0
+30,Setu,Wellness,Static,Awareness,Sleep doesn't have to be a struggle. Setu Calm — melatonin + ashwagandha + L-theanine. Drug-free. Dependency-free. Just better nights.,3,4,0,0,0,10,17,20,17.0
+31,The Whole Truth,F&B,Carousel,Consideration,"We list EVERY ingredient on the front of the pack. Because if you can't read it, you probably shouldn't eat it. Nothing to hide. Everything to gain.",3,4,0,0,0,10,17,27,17.0
+32,Generic Brand B,F&B,Static,Awareness,Healthy snacks for everyone. Good taste. Good price. Order now.,0,0,0,10,0,6,16,10,16.0
+33,The Bear House,Fashion,Reel,Awareness,"Office. Dinner. Weekend. One shirt does it all. The Bear House stretch-fit collection — wrinkle-free, sweat-resistant, and actually stylish.",0,0,0,0,3,12,15,19,15.0
+34,Generic Brand E,Skincare,Carousel,Consideration,Great products for great skin. Check out our range. Free delivery on all orders.,0,0,3,5,0,6,14,14,14.0
+35,Generic Brand A,Skincare,Static,Awareness,Best skincare products available. Buy now and get discount. Quality guaranteed. Shop today.,0,0,0,10,0,4,14,13,14.0
+36,Kapiva,Wellness,Carousel,Consideration,"Ashwagandha. Shilajit. Brahmi. Ancient superfoods, modern extraction. Kapiva Ayurvedic supplements — real herbs, real results, real transparency.",0,0,0,0,3,10,13,17,13.0
+37,Dot & Key,Skincare,Carousel,Consideration,"Hot girl summer needs cold protection. Our Watermelon Cooling Moisturiser: SPF 20, hydration boost, and a texture so light you'll forget you're wearing it.",3,0,0,0,0,10,13,24,13.0
+38,Yoga Bar,F&B,Static,Awareness,"No refined sugar. No maida. No guilt. Just a damn good protein bar. Yoga Bar — eat clean, feel real.",0,0,0,0,0,10,10,20,10.0
+39,Generic Brand C,Fashion,Reel,Awareness,New collection available. Stylish and affordable. Click the link to shop.,0,0,0,5,0,4,9,11,9.0
