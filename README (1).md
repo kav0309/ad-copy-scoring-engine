@@ -1,4 +1,4 @@
-# 📊 Meta Ad Copy Scoring Engine — D2C Brands
+ Meta Ad Copy Scoring Engine — D2C Brands
 
 A Python-based tool that scores real D2C brand ad copies across **6 direct-response marketing dimensions**, inspired by Meta Ad Library data.
 
@@ -6,7 +6,7 @@ Built as part of a performance marketing + creative strategy portfolio.
 
 ---
 
-## 🎯 What It Does
+ What It Does
 
 Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yoga Bar, boAt, etc.) and scores each one algorithmically across:
 
@@ -22,7 +22,7 @@ Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yo
 
 ---
 
-## 📈 Key Findings
+ Key Findings
 
 - **Conversion-stage ads score 73% higher** on average than Awareness ads (38.0 vs 21.9) — they use more concrete proof, pricing, and urgency
 - **Reel format outperforms Static** (29.5 vs 23.8 avg) due to stronger hooks and storytelling structure
@@ -32,7 +32,7 @@ Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yo
 
 ---
 
-## 🗂️ Files
+ Files
 
 ```
 ├── ad_copy_data.py       # 40 ad copies dataset (manually curated from Meta Ad Library)
@@ -47,7 +47,7 @@ Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yo
 ```
 
 ---
-## 📊 Charts
+ Charts
 
 ![Leaderboard](chart1_leaderboard.png)
 ![Radar](chart2_radar.png)
@@ -55,7 +55,7 @@ Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yo
 ![Dimension Breakdown](chart4_dimensions.png)
 ![Best vs Worst](chart5_insight_card.png)
 
-## 🚀 Run It
+ Run It
 
 ```bash
 pip install pandas matplotlib
@@ -64,7 +64,7 @@ python3 visualise.py
 
 ---
 
-## 🧠 Methodology Notes
+ Methodology Notes
 
 - Scoring is rule-based NLP (keyword matching + structural analysis), not ML
 - Designed to mirror how a creative strategist evaluates copy — not just sentiment
@@ -73,7 +73,7 @@ python3 visualise.py
 
 ---
 
-## 🔗 Related Project
+Related Project
 
 [Competitive Ad Creative Analysis — Indē Wild vs Plum](https://kav0309.github.io/ad-creative-analysis)  
 Analysed 24 paid ads across format, copy style, offer type and creative age using Python.
