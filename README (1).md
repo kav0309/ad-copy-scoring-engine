@@ -47,6 +47,13 @@ Analyses 40 paid ad copies from 20+ D2C brands (Indē Wild, Plum, Minimalist, Yo
 ```
 
 ---
+## 📊 Charts
+
+![Leaderboard](chart1_leaderboard.png)
+![Radar](chart2_radar.png)
+![Funnel vs Format](chart3_funnel_format.png)
+![Dimension Breakdown](chart4_dimensions.png)
+![Best vs Worst](chart5_insight_card.png)
 
 ## 🚀 Run It
 
